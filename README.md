@@ -15,6 +15,9 @@
 ![Wpf](https://img.shields.io/badge/-Wpf-000?&logo=Wpf) 
 
 
+### Connect with me
+![Linkedin](https://www.linkedin.com/in/makri-aymen/?&logo=Linkedin)
+
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=makri-aymen&count_private=true&show_icons=true&theme=chartreuse-dark">
