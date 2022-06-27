@@ -5,9 +5,10 @@
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) 
 ![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
 
 
 ### Technologies
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+![Wpf](https://img.shields.io/badge/-Wpf-000?&logo=Wpf)
