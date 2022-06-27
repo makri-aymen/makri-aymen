@@ -7,7 +7,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
-![C-sharp](https://img.shields.io/badge/-C-sharp-000?&logo=C-sharp)
+![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
 
 
 ### Technologies
