@@ -18,8 +18,7 @@
 ### Connect with me
 <a href="https://www.linkedin.com/in/makri-aymen/">
   ![Linkedin](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)
-</a>
-![Linkedin](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)
+</a> 
 
 
 
